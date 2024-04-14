@@ -1,6 +1,5 @@
 # About me 👋
 
-**Adebayo42/Adebayo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Machine learning model stability
 - 🌱 I’m currently learning advanced programming with python
